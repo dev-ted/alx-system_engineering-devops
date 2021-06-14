@@ -1,0 +1,2 @@
+#!/bin/bash
+las -la > ls_wd_content \
